@@ -7,7 +7,7 @@ package w1d1;
 
 import java.util.Scanner;
 
-/* OUTPUT
+/* OUTPUT Problem# 3
 Enter an integer: 12304560
     Odd digits: 3
     Even digits: 3
