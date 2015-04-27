@@ -7,7 +7,7 @@ package w1d1;
 
 import java.util.Scanner;
 
-/* OUTPUT
+/* OUTPUT for Problem# 1
    Enter a character: 0
    Character is a number.
 */
