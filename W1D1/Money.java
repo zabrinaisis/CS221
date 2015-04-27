@@ -7,7 +7,7 @@ package w1d1;
 
 import java.util.Scanner;
 
-/* OUTPUT
+/* OUTPUT Problem# 2
 Enter an amount in the format 11.56: 11.56
     11 dollars
     2 quarters
